@@ -1,278 +1,278 @@
-city,FIPS,tmy_id,heating_design_temp
-anchorage municipality,203000,702730,-4.5
-adak city,200065,704540,22.6
-akutan city,201090,704890,21.2
-allakaket city,201860,701740,-44.9
-angoon city,203440,703710,20.9
-aniak city,203550,702320,-30.2
-arctic village cdp,203990,701940,-50.7
-atka city,204210,704540,22.6
-juneau city and borough,236400,703810,8.9
-barrow city,205200,700260,-34.3
-bethel city,206520,702190,-22.6
-bettles city,206630,701740,-44.9
-delta junction city,218620,702670,-32.0
-big lake cdp,207070,702746,-8.5
-cantwell cdp,210150,702647,-36.0
-central cdp,211690,701940,-50.7
-chalkyitsik cdp,211800,701940,-50.7
-chickaloon cdp,213340,702740,-9.3
-chicken cdp,213450,702910,-44.9
-chignik city,213550,703330,-1.6
-chitina cdp,214110,702710,-33.2
-circle cdp,214880,701940,-50.7
-anderson city,203220,702600,-41.0
-coffman cove city,216360,703870,15.8
-cold bay city,216530,703160,11.7
-cooper landing cdp,217190,702770,7.0
-copper center cdp,217300,702710,-33.2
-cordova city,217410,702960,2.4
-atqasuk city,204500,700260,-34.3
-kaktovik city,236990,700637,-41.3
-nuiqsut city,256320,700637,-41.3
-point hope city,261630,701043,-24.1
-point lay cdp,261700,701043,-24.1
-wainwright city,282750,700260,-34.3
-ambler city,201970,701718,-36.5
-buckland city,209600,700197,-36.6
-deering city,218510,701330,-31.0
-kiana city,239300,700197,-36.6
-kivalina city,239960,701043,-24.1
-kobuk city,240840,701718,-36.5
-kotzebue city,241830,701330,-31.0
-noatak cdp,254700,701330,-31.0
-noorvik city,255140,700197,-36.6
-selawik city,268230,700197,-36.6
-shungnak city,270100,701718,-36.5
-brevig mission city,208740,702000,-24.6
-diomede city,219060,701195,-26.2
-elim city,222250,702070,-25.2
-gambell city,227640,702040,-11.4
-golovin city,229180,702000,-24.6
-koyuk city,241940,702070,-25.2
-nome city,254920,702000,-24.6
-st. michael city,266360,702070,-25.2
-savoonga city,267460,702035,-17.8
-shaktoolik city,268890,702070,-25.2
-shishmaref city,269770,701195,-26.2
-stebbins city,272960,702070,-25.2
-teller city,275930,702000,-24.6
-unalakleet city,280660,702070,-25.2
-wales city,282860,701195,-26.2
-white mountain city,284070,702000,-24.6
-chevak city,213230,702186,-11.3
-emmonak city,222910,702084,-19.6
-hooper bay city,233470,702186,-11.3
-kotlik city,241720,702084,-19.6
-marshall city,247000,702005,-18.4
-mountain village city,251180,702005,-18.4
-pilot station city,260750,702005,-18.4
-pitkas point cdp,260860,702005,-18.4
-russian mission city,265700,702320,-30.2
-st. mary's city,266140,702005,-18.4
-scammon bay city,267680,702186,-11.3
-nunam iqua city,256600,702084,-19.6
-akiachak cdp,200760,702190,-22.6
-akiak city,200870,702190,-22.6
-atmautluak cdp,204430,702190,-22.6
-chefornak city,212680,702185,-10.6
-eek city,221040,702190,-22.6
-goodnews bay city,229290,703606,-13.6
-kasigluk cdp,237975,702190,-22.6
-kipnuk cdp,239740,702185,-10.6
-kongiganak cdp,241610,702190,-22.6
-kwethluk city,242380,702190,-22.6
-kwigillingok cdp,242490,702190,-22.6
-mekoryuk city,247990,702185,-10.6
-napakiak city,252390,702190,-22.6
-napaskiak city,252720,702190,-22.6
-newtok cdp,253820,702186,-11.3
-nightmute city,253930,702185,-10.6
-nunapitchuk city,256680,702190,-22.6
-oscarville cdp,258330,702190,-22.6
-platinum city,261080,703606,-13.6
-quinhagak city,264600,702190,-22.6
-toksook bay city,278240,702185,-10.6
-tuluksak cdp,278790,702190,-22.6
-tuntutuliak cdp,279120,702190,-22.6
-tununak cdp,279230,702185,-10.6
-chuathbaluk city,214330,702320,-30.2
-crooked creek cdp,217850,703407,-32.7
-lime village cdp,244030,703407,-32.7
-lower kalskag city,245460,702320,-30.2
-sleetmute cdp,271090,703407,-32.7
-stony river cdp,273400,703407,-32.7
-upper kalskag city,281320,702320,-30.2
-clark's point city,215430,703210,-14.7
-dillingham city,218950,703210,-14.7
-ekwok city,221810,703210,-14.7
-koliganek cdp,241500,703210,-14.7
-manokotak city,246890,703210,-14.7
-new stuyahok city,253710,703210,-14.7
-togiak city,277690,703606,-13.6
-twin hills cdp,279780,703606,-13.6
-king salmon cdp,239630,703260,-19.1
-naknek cdp,252060,703260,-19.1
-south naknek cdp,272190,703260,-19.1
-chignik lake cdp,213780,703330,-1.6
-egegik city,221150,703260,-19.1
-igiugig cdp,234790,703400,-14.6
-iliamna cdp,235120,703400,-14.6
-kokhanok cdp,241280,703400,-14.6
-levelock cdp,243810,703260,-19.1
-newhalen city,253270,703400,-14.6
-nondalton city,255030,703400,-14.6
-pedro bay cdp,259540,703400,-14.6
-perryville cdp,260200,703165,15.5
-pilot point city,260640,703330,-1.6
-port alsworth cdp,262620,703400,-14.6
-port heiden city,263390,703330,-1.6
-ugashik cdp,280100,703330,-1.6
-false pass city,224660,703160,11.7
-king cove city,239410,703160,11.7
-nelson lagoon cdp,252940,703165,15.5
-sand point city,267020,703165,15.5
-nikolski cdp,254260,704890,21.2
-st. george city,265800,703080,4.7
-st. paul city,266470,703080,4.7
-unalaska city,280770,704890,21.2
-anvik city,203880,702075,-20.2
-grayling city,230060,702075,-20.2
-holy cross city,233030,702075,-20.2
-mcgrath city,246010,702310,-41.6
-nikolai city,254150,702310,-41.6
-shageluk city,268670,702075,-20.2
-takotna cdp,274610,702310,-41.6
-beaver cdp,205750,701940,-50.7
-birch creek cdp,207620,701940,-50.7
-fort yukon city,226760,701940,-50.7
-venetie cdp,282420,701940,-50.7
-alatna cdp,201305,701740,-44.9
-evansville cdp,223790,701740,-44.9
-galena city,227530,702225,-40.1
-hughes city,233910,702225,-40.1
-huslia city,234350,702225,-40.1
-kaltag city,237430,702070,-25.2
-koyukuk city,242050,702225,-40.1
-lake minchumina cdp,242820,702460,-33.4
-manley hot springs cdp,246780,701780,-42.2
-minto cdp,249530,702600,-41.0
-nulato city,256350,702225,-40.1
-rampart cdp,264820,701780,-42.2
-ruby city,265590,702225,-40.1
-stevens village cdp,273290,702610,-38.6
-tanana city,275160,701780,-42.2
-wiseman cdp,285610,701740,-44.9
-dot lake cdp,219720,702670,-32.0
-eagle city,220380,702910,-44.9
-healy cdp,232150,702647,-36.0
-northway cdp,256220,702910,-44.9
-tanacross cdp,275050,702910,-44.9
-tetlin cdp,276590,702910,-44.9
-tok cdp,277800,702910,-44.9
-haines cdp,231050,703620,5.8
-elfin cove cdp,222140,703670,5.3
-gustavus city,230940,703670,5.3
-hoonah city,233360,702607,12.4
-pelican city,259650,702607,12.4
-yakutat cdp,286490,703610,7.0
-klukwan cdp,240510,703620,5.8
-skagway cdp,270760,703620,5.8
-tenakee springs city,276260,702607,12.4
-juneau city and borough,236400,703810,8.9
-sitka city and borough,270540,703710,20.9
-wrangell city and borough,286380,703870,15.8
-kake city,236770,703855,16.3
-petersburg city,260310,703860,12.2
-port alexander city,262510,703855,16.3
-ketchikan city,238970,703950,18.9
-saxman city,267570,703950,18.9
-ketchikan city,238970,703950,18.9
-metlakatla cdp,248870,703980,21.6
-hyder cdp,234570,703950,18.9
-hollis cdp,232810,703884,21.3
-craig city,217740,703884,21.3
-hydaburg city,234460,703884,21.3
-kasaan city,237650,703884,21.3
-klawock city,240400,703884,21.3
-point baker cdp,261190,703860,12.2
-port protection cdp,263870,703860,12.2
-thorne bay city,277140,703884,21.3
-chistochina cdp,214000,702710,-33.2
-gakona cdp,227420,702710,-33.2
-glennallen cdp,228740,702710,-33.2
-gulkana cdp,230500,702710,-33.2
-kenny lake cdp,238910,702710,-33.2
-mccarthy cdp,245790,702710,-33.2
-mentasta lake cdp,248540,702910,-44.9
-paxson cdp,259320,702710,-33.2
-slana cdp,270930,702710,-33.2
-tazlina cdp,275480,702710,-33.2
-tonsina cdp,278350,702710,-33.2
-cordova city,217410,702960,2.4
-chenega cdp,212970,702770,7.0
-tatitlek cdp,275380,702750,7.1
-valdez city,282200,702756,5.3
-whittier city,284510,702757,9.8
-nanwalek cdp,252210,703410,4.0
-port graham cdp,263280,703410,4.0
-seward city,268560,702770,7.0
-anchor point cdp,203110,703410,4.0
-clam gulch cdp,215320,702595,-17.9
-homer city,233140,703410,4.0
-hope cdp,233580,702730,-4.5
-kasilof cdp,238090,702595,-17.9
-kenai city,238420,702590,-15.9
-moose pass cdp,250190,702770,7.0
-nikiski cdp,254050,702590,-15.9
-nikolaevsk cdp,254085,703410,4.0
-ninilchik cdp,254480,703410,4.0
-seldovia city,268340,703410,4.0
-soldotna city,271640,702595,-17.9
-sterling cdp,273070,702595,-17.9
-tyonek cdp,279890,702590,-15.9
-houston city,233800,702746,-8.5
-anchorage municipality,203000,702757,9.8
-palmer city,258660,702740,-9.3
-skwentna cdp,270870,702495,-9.1
-sutton-alpine cdp,274525,702740,-9.3
-talkeetna cdp,274830,702510,-17.6
-trapper creek cdp,278680,702510,-17.6
-wasilla city,283080,702746,-8.5
-willow cdp,285280,702746,-8.5
-akhiok city,200650,703500,12.8
-chiniak cdp,213860,703500,12.8
-karluk cdp,237540,703500,12.8
-kodiak city,240950,703500,12.8
-larsen bay city,243040,703500,12.8
-old harbor city,257340,703500,12.8
-ouzinkie city,258550,703500,12.8
-port lions city,263610,703500,12.8
-juneau city and borough,236400,703810,8.9
-fairbanks city,224230,702610,-38.6
-alakanuk city,201200,702084,-19.6
-aleknagik city,201420,703210,-14.7
-anaktuvuk pass city,202080,701625,-33.4
-anchorage municipality,203000,702730,-4.5
-anchorage municipality,203000,702746,-8.5
-anchorage municipality,203000,702746,-8.5
-juneau city and borough,236400,703810,8.9
-nenana city,253050,702600,-41.0
-north pole city,255910,702650,-39.6
-anderson city,203220,702600,-41.0
-unalaska city,280770,704890,21.2
-salcha cdp,266550,702650,-39.6
-healy cdp,232150,702647,-36.0
-ester cdp,223460,702610,-38.6
-anchorage municipality,203000,702730,-4.5
-whale pass cdp,284000,703870,15.8
-naukati bay cdp,252845,703884,21.3
-anaktuvuk pass city,202080,701625,-33.4
-atqasuk city,204500,700260,-34.3
-kaktovik city,236990,700637,-41.3
-point hope city,261630,701043,-24.1
-wainwright city,282750,700260,-34.3
-fairbanks city,224230,702610,-38.6
-newtok cdp,253820,702185,-10.6
-point lay cdp,261700,701043,-24.1
-chignik city,213550,703330,-1.6
+city,tmy_id,heating_design_temp
+anchorage municipality,702730,-4.5
+adak city,704540,22.6
+akutan city,704890,21.2
+allakaket city,701740,-44.9
+angoon city,703710,20.9
+aniak city,702320,-30.2
+arctic village cdp,701940,-50.7
+atka city,704540,22.6
+juneau city and borough,703810,8.9
+barrow city,700260,-34.3
+bethel city,702190,-22.6
+bettles city,701740,-44.9
+delta junction city,702670,-32.0
+big lake cdp,702746,-8.5
+cantwell cdp,702647,-36.0
+central cdp,701940,-50.7
+chalkyitsik cdp,701940,-50.7
+chickaloon cdp,702740,-9.3
+chicken cdp,702910,-44.9
+chignik city,703330,-1.6
+chitina cdp,702710,-33.2
+circle cdp,701940,-50.7
+anderson city,702600,-41.0
+coffman cove city,703870,15.8
+cold bay city,703160,11.7
+cooper landing cdp,702770,7.0
+copper center cdp,702710,-33.2
+cordova city,702960,2.4
+atqasuk city,700260,-34.3
+kaktovik city,700637,-41.3
+nuiqsut city,700637,-41.3
+point hope city,701043,-24.1
+point lay cdp,701043,-24.1
+wainwright city,700260,-34.3
+ambler city,701718,-36.5
+buckland city,700197,-36.6
+deering city,701330,-31.0
+kiana city,700197,-36.6
+kivalina city,701043,-24.1
+kobuk city,701718,-36.5
+kotzebue city,701330,-31.0
+noatak cdp,701330,-31.0
+noorvik city,700197,-36.6
+selawik city,700197,-36.6
+shungnak city,701718,-36.5
+brevig mission city,702000,-24.6
+diomede city,701195,-26.2
+elim city,702070,-25.2
+gambell city,702040,-11.4
+golovin city,702000,-24.6
+koyuk city,702070,-25.2
+nome city,702000,-24.6
+st. michael city,702070,-25.2
+savoonga city,702035,-17.8
+shaktoolik city,702070,-25.2
+shishmaref city,701195,-26.2
+stebbins city,702070,-25.2
+teller city,702000,-24.6
+unalakleet city,702070,-25.2
+wales city,701195,-26.2
+white mountain city,702000,-24.6
+chevak city,702186,-11.3
+emmonak city,702084,-19.6
+hooper bay city,702186,-11.3
+kotlik city,702084,-19.6
+marshall city,702005,-18.4
+mountain village city,702005,-18.4
+pilot station city,702005,-18.4
+pitkas point cdp,702005,-18.4
+russian mission city,702320,-30.2
+st. mary's city,702005,-18.4
+scammon bay city,702186,-11.3
+nunam iqua city,702084,-19.6
+akiachak cdp,702190,-22.6
+akiak city,702190,-22.6
+atmautluak cdp,702190,-22.6
+chefornak city,702185,-10.6
+eek city,702190,-22.6
+goodnews bay city,703606,-13.6
+kasigluk cdp,702190,-22.6
+kipnuk cdp,702185,-10.6
+kongiganak cdp,702190,-22.6
+kwethluk city,702190,-22.6
+kwigillingok cdp,702190,-22.6
+mekoryuk city,702185,-10.6
+napakiak city,702190,-22.6
+napaskiak city,702190,-22.6
+newtok cdp,702186,-11.3
+nightmute city,702185,-10.6
+nunapitchuk city,702190,-22.6
+oscarville cdp,702190,-22.6
+platinum city,703606,-13.6
+quinhagak city,702190,-22.6
+toksook bay city,702185,-10.6
+tuluksak cdp,702190,-22.6
+tuntutuliak cdp,702190,-22.6
+tununak cdp,702185,-10.6
+chuathbaluk city,702320,-30.2
+crooked creek cdp,703407,-32.7
+lime village cdp,703407,-32.7
+lower kalskag city,702320,-30.2
+sleetmute cdp,703407,-32.7
+stony river cdp,703407,-32.7
+upper kalskag city,702320,-30.2
+clark's point city,703210,-14.7
+dillingham city,703210,-14.7
+ekwok city,703210,-14.7
+koliganek cdp,703210,-14.7
+manokotak city,703210,-14.7
+new stuyahok city,703210,-14.7
+togiak city,703606,-13.6
+twin hills cdp,703606,-13.6
+king salmon cdp,703260,-19.1
+naknek cdp,703260,-19.1
+south naknek cdp,703260,-19.1
+chignik lake cdp,703330,-1.6
+egegik city,703260,-19.1
+igiugig cdp,703400,-14.6
+iliamna cdp,703400,-14.6
+kokhanok cdp,703400,-14.6
+levelock cdp,703260,-19.1
+newhalen city,703400,-14.6
+nondalton city,703400,-14.6
+pedro bay cdp,703400,-14.6
+perryville cdp,703165,15.5
+pilot point city,703330,-1.6
+port alsworth cdp,703400,-14.6
+port heiden city,703330,-1.6
+ugashik cdp,703330,-1.6
+false pass city,703160,11.7
+king cove city,703160,11.7
+nelson lagoon cdp,703165,15.5
+sand point city,703165,15.5
+nikolski cdp,704890,21.2
+st. george city,703080,4.7
+st. paul city,703080,4.7
+unalaska city,704890,21.2
+anvik city,702075,-20.2
+grayling city,702075,-20.2
+holy cross city,702075,-20.2
+mcgrath city,702310,-41.6
+nikolai city,702310,-41.6
+shageluk city,702075,-20.2
+takotna cdp,702310,-41.6
+beaver cdp,701940,-50.7
+birch creek cdp,701940,-50.7
+fort yukon city,701940,-50.7
+venetie cdp,701940,-50.7
+alatna cdp,701740,-44.9
+evansville cdp,701740,-44.9
+galena city,702225,-40.1
+hughes city,702225,-40.1
+huslia city,702225,-40.1
+kaltag city,702070,-25.2
+koyukuk city,702225,-40.1
+lake minchumina cdp,702460,-33.4
+manley hot springs cdp,701780,-42.2
+minto cdp,702600,-41.0
+nulato city,702225,-40.1
+rampart cdp,701780,-42.2
+ruby city,702225,-40.1
+stevens village cdp,702610,-38.6
+tanana city,701780,-42.2
+wiseman cdp,701740,-44.9
+dot lake cdp,702670,-32.0
+eagle city,702910,-44.9
+healy cdp,702647,-36.0
+northway cdp,702910,-44.9
+tanacross cdp,702910,-44.9
+tetlin cdp,702910,-44.9
+tok cdp,702910,-44.9
+haines cdp,703620,5.8
+elfin cove cdp,703670,5.3
+gustavus city,703670,5.3
+hoonah city,702607,12.4
+pelican city,702607,12.4
+yakutat cdp,703610,7.0
+klukwan cdp,703620,5.8
+skagway cdp,703620,5.8
+tenakee springs city,702607,12.4
+juneau city and borough,703810,8.9
+sitka city and borough,703710,20.9
+wrangell city and borough,703870,15.8
+kake city,703855,16.3
+petersburg city,703860,12.2
+port alexander city,703855,16.3
+ketchikan city,703950,18.9
+saxman city,703950,18.9
+ketchikan city,703950,18.9
+metlakatla cdp,703980,21.6
+hyder cdp,703950,18.9
+hollis cdp,703884,21.3
+craig city,703884,21.3
+hydaburg city,703884,21.3
+kasaan city,703884,21.3
+klawock city,703884,21.3
+point baker cdp,703860,12.2
+port protection cdp,703860,12.2
+thorne bay city,703884,21.3
+chistochina cdp,702710,-33.2
+gakona cdp,702710,-33.2
+glennallen cdp,702710,-33.2
+gulkana cdp,702710,-33.2
+kenny lake cdp,702710,-33.2
+mccarthy cdp,702710,-33.2
+mentasta lake cdp,702910,-44.9
+paxson cdp,702710,-33.2
+slana cdp,702710,-33.2
+tazlina cdp,702710,-33.2
+tonsina cdp,702710,-33.2
+cordova city,702960,2.4
+chenega cdp,702770,7.0
+tatitlek cdp,702750,7.1
+valdez city,702756,5.3
+whittier city,702757,9.8
+nanwalek cdp,703410,4.0
+port graham cdp,703410,4.0
+seward city,702770,7.0
+anchor point cdp,703410,4.0
+clam gulch cdp,702595,-17.9
+homer city,703410,4.0
+hope cdp,702730,-4.5
+kasilof cdp,702595,-17.9
+kenai city,702590,-15.9
+moose pass cdp,702770,7.0
+nikiski cdp,702590,-15.9
+nikolaevsk cdp,703410,4.0
+ninilchik cdp,703410,4.0
+seldovia city,703410,4.0
+soldotna city,702595,-17.9
+sterling cdp,702595,-17.9
+tyonek cdp,702590,-15.9
+houston city,702746,-8.5
+anchorage municipality,702757,9.8
+palmer city,702740,-9.3
+skwentna cdp,702495,-9.1
+sutton-alpine cdp,702740,-9.3
+talkeetna cdp,702510,-17.6
+trapper creek cdp,702510,-17.6
+wasilla city,702746,-8.5
+willow cdp,702746,-8.5
+akhiok city,703500,12.8
+chiniak cdp,703500,12.8
+karluk cdp,703500,12.8
+kodiak city,703500,12.8
+larsen bay city,703500,12.8
+old harbor city,703500,12.8
+ouzinkie city,703500,12.8
+port lions city,703500,12.8
+juneau city and borough,703810,8.9
+fairbanks city,702610,-38.6
+alakanuk city,702084,-19.6
+aleknagik city,703210,-14.7
+anaktuvuk pass city,701625,-33.4
+anchorage municipality,702730,-4.5
+anchorage municipality,702746,-8.5
+anchorage municipality,702746,-8.5
+juneau city and borough,703810,8.9
+nenana city,702600,-41.0
+north pole city,702650,-39.6
+anderson city,702600,-41.0
+unalaska city,704890,21.2
+salcha cdp,702650,-39.6
+healy cdp,702647,-36.0
+ester cdp,702610,-38.6
+anchorage municipality,702730,-4.5
+whale pass cdp,703870,15.8
+naukati bay cdp,703884,21.3
+anaktuvuk pass city,701625,-33.4
+atqasuk city,700260,-34.3
+kaktovik city,700637,-41.3
+point hope city,701043,-24.1
+wainwright city,700260,-34.3
+fairbanks city,702610,-38.6
+newtok cdp,702185,-10.6
+point lay cdp,701043,-24.1
+chignik city,703330,-1.6
